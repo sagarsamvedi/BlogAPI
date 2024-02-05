@@ -14,7 +14,7 @@ This project is a robust DjangoREST API serving as the backend for a simple yet 
 
 - **DjangoREST Framework:** A powerful toolkit for building Web APIs in Django.
 - **Django:** The web framework for perfectionists with deadlines.
-- **PostgreSQL:** A robust open-source relational database system.
+
 
 ## Getting Started
 
