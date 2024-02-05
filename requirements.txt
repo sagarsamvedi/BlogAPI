@@ -1,0 +1,23 @@
+# The following packages are dependencies for the DjangoREST Blog API project.
+
+# General Dependencies
+argon2-cffi==21.3.0        # Argon2 password hashing for security
+asgiref==3.4.1             # ASGI specification reference implementation
+certifi==2021.10.8         # Certificates for secure connections
+
+# Django and REST Framework
+Django==4.0.1              # Django web framework
+djangorestframework==3.13.1 # Django REST framework for building APIs
+
+
+# Development Tools
+black==21.12b0             # Code formatter
+pylint==2.17.5             # Python code static analysis tool
+mypy==0.910                # Static type checker for Python
+autopep8==1.5.7            # Automatically formats Python code
+
+# Image Processing
+Pillow==8.4.0              # Python Imaging Library fork for image processing
+
+# Other Utility Libraries
+pywin32==303               # Python extensions for Windows
