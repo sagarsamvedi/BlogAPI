@@ -46,12 +46,12 @@ Follow these steps to get the project up and running on your local machine:
    Open your browser and navigate to http://localhost:8000/ to explore the API using the Browsable API.
 
 ## API Endpoints
--User Registration: POST /api/account/register
--User Login: POST /api/account/login
--Create Blog Post through authenticated user: POST /api/home/blog
--Get Blog Post through authenticated user: GET /api/home/blog
--List Blog Posts with Pagination and random blogs: GET /api/home/?page=
--Search Blog Posts by Title or Content: GET /api/homme/blog/?search=
+- User Registration: POST /api/account/register
+- User Login: POST /api/account/login
+- Create Blog Post through authenticated user: POST /api/home/blog
+- Get Blog Post through authenticated user: GET /api/home/blog
+- List Blog Posts with Pagination and random blogs: GET /api/home/?page=
+- Search Blog Posts by Title or Content: GET /api/homme/blog/?search=
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements, open issues or pull requests. Let's build a better blogging experience together.
